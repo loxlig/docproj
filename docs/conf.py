@@ -14,7 +14,7 @@ import sphinx_rtd_theme
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('docs/docproj'))
+sys.path.insert(0, os.path.abspath('docproj/docs/docproj'))
 
 # -- Project information -----------------------------------------------------
 
